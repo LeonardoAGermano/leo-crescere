@@ -28,7 +28,7 @@ function Header() {
           <label for="rd_yourdev">your/dev</label>
           <label for="rd_como_funciona">Como funciona</label>
           <label for="rd_planos">Planos</label>
-          <label for="rd_duvclassNameas">DúvclassNameas</label>
+          <label for="rd_duvclassNameas">Dúvidas</label>
           <label for="rd_contato">Contato</label>
           <label for="rd_quero_meu_site">Quero meu site</label>
         </nav>
